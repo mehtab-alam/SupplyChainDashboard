@@ -1,13 +1,13 @@
-pandas==2.1.4
-numpy==1.26.2
+pandas
+numpy
 
 # Visualization Libraries
-matplotlib==3.8.2
-seaborn==0.13.0
-plotly==5.18.0
+matplotlib
+seaborn
+plotly
 
 # Statistical Analysis
-scipy==1.11.4
+scipy
 
 # Streamlit
-streamlit==1.29.0
+streamlit
