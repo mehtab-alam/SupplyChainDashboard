@@ -34,4 +34,4 @@ This interactive dashboard provides comprehensive analysis of supply chain data 
 
 ## Live App
 
-[Supply Chain Analytics Dashboard](https://scdashboardmbs.streamlit.app/)
+[Supply Chain Analytics Dashboard](https://scadashboardmbs.streamlit.app/)
